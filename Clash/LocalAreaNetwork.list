@@ -1,7 +1,7 @@
 # 本地/局域网地址
 # 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
 DOMAIN-KEYWORD,axshare
-DOMAIN-KEYWORD,sport.top
+
 # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 DOMAIN-SUFFIX,acl4.ssr
 
@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,p.to
 DOMAIN-SUFFIX,peiluyou.com
+
+DOMAIN-KEYWORD,sport
 DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,routerlogin.com
